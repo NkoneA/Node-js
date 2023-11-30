@@ -17,5 +17,6 @@
 
 To run the application:
 ```bash
-node app.js
+node index.js
+The server will start on port 3000 by default. You can access the home view at http://localhost:3000/
 
