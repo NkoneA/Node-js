@@ -1,6 +1,6 @@
 
 # Comments App
-* This is a simple comments app built using Node.js and Express. It allows users to view, add, edit, and delete comments.
+* This is a comments app built using Node.js and Express. It allows users to view, add, edit, and delete comments.
 ## Setup
 * Install Dependencies: Run npm install to install the necessary dependencies.
 * Run the Server: Execute node app.js or npm start to start the server. The app will run on port 3000.
